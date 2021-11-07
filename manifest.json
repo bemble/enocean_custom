@@ -3,6 +3,7 @@
   "name": "EnOcean - Custom",
   "version": "1.0.0",
   "documentation": "https://www.home-assistant.io/integrations/enocean",
+  "issue_tracker": "https://github.com/pierrecle/enocean_cutom/issues",
   "requirements": ["enocean==0.60"],
   "codeowners": ["@bdurrer"],
   "config_flow": true,
