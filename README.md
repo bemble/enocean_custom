@@ -27,7 +27,7 @@ cover:
 
 ## Teach-in
 
-To communicate with your devices, your dongle must be registred into your device as enabled to send messages. To do so, enable Universal Teach-In on the integration (see the gif below), and set your device into "pairing mode" or something like that (for my devices, I just had to press 3 times on *** button). Don't forget to turn Universal Teach-In off.
+To communicate with your devices, your dongle must be registred into your device as enabled to send messages. To do so, enable Universal Teach-In on the integration (see the gif below), and set your device into "pairing mode" or something like that (for my devices, I just had to press 3 times on `PRESS` button). Don't forget to turn Universal Teach-In off.
 
 ![Universal Teach-in](https://github.com/pierrecle/enocean_custom/raw/main/ressources/Enocean_UniversalTeachIn_Switch.gif "Turn on Universal Teach-In")
 
