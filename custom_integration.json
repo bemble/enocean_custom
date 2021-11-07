@@ -1,6 +1,0 @@
-{
-    "name": "EnOcean Custom",
-    "owner": ["@pierrecle"],
-    "manifest": "https://raw.githubusercontent.com/pierrecle/enocean_custom/main/manifest.json",
-    "url": "https://github.com/pierrecle/enocean_custom"
-  }
