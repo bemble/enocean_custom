@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "documentation": "https://github.com/pierrecle/enocean_custom",
   "issue_tracker": "https://github.com/pierrecle/enocean_custom/issues",
-  "requirements": ["enocean==0.60"],
+  "requirements": ["enocean>=0.50"],
   "codeowners": ["@pierrecle"],
   "config_flow": true,
   "iot_class": "local_push"
